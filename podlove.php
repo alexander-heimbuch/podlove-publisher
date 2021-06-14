@@ -28,7 +28,7 @@ function load_podlove_podcast_publisher()
 function podlove_admin_error_no_autoload()
 {
     ?>
-	<div id="message" class="error">
+	<div id="message" class="error">fooo
 		<p>
 			<strong>Podlove Podcast Publisher could not be activated</strong>
 		</p>
